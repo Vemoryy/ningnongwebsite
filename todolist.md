@@ -1,0 +1,1 @@
+1. glitchy flickering effect when there is no images inputted through the admin panel
